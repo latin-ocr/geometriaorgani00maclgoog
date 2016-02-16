@@ -1,0 +1,46 @@
+Carnorum Universalin 117
+
+2. Ex hac curva alia describi potest in quaerit r : p :: as :r'³3 &ae-
+uationes curvarum quae methodo diredia ex Hyperbola deduci¹ possunt
+seriem constituunt, ubi indices semper habent numerum binarium nume·
+ratorem ὅ( numeros impares 1, 3, 5, 7, &c denominatores. Omnes
+curvae quarum indicum denominatores suntin serie- r, 3, 7, 11, δίο.
+exhiberi possunt in reslis & arcubus Hyperbolicis; quae vero denomina-
+tores habent r, 5, 9, 13, &c exhiberi possunt in arcubus curvae modo
+explicatae δε in restis, ut ex Prop. 15· satis est manifestum.
+
+3. Ex Hyperbola methodo inversa ea nim. Coros. 2. Propo. deduci.-
+tur similis series curvarum ubi indices aequrtionum erunt in eodem ordine
+acin priori sed negativae. Harum omnes uarum indicum denomina-
+tores sunt in serie 1, 5, 7, &c exhiberi possunt in arcubus Hyperbolicis
+ἃ rodim reliquarum mensura pendet dcurva rius explicata. ,Ι
+
+Schts. Series prioribus propositionibus invedigarae includunt omnes ae·
+quationes quarum indices possunt habere numeratorem unitatem, & eae
+hac Prop. demonstratae omnes includunt quae possunt habere numerato·
+rem numerum binarium, quae ad priores reduci non possunt. Proinde
+jarn exhibuimus omnes curvos simpliciores ¹quarum aequationes ad genere·
+semr t p :: ar ε ν reduci possunt. At -ι asiae quaerantur curvae quae
+alias} exhibere possint ssmiles series, innumerae ex Casta 3. Prop. ¹3· peti
+
+o unt.
+p E. g. Si quaeratur series curvarum quarum indices numeratorem‘habc·
+re ‘debeant numerum ternarium. Sit BL vel resta ves circulus, fitque
+
+angulus BSN :RS-I!- & in SN sumatur SP (Fr'g.25,26.) primum duorum
+
+mediorum proportihnalihm inter SB &SL 3 eritqueP in curvacujus tequa-
+
+rio adSeritrzp :: r³:a³fiBLfitredta; sedr:p z: a³tr³siBLfit
+circulus, &S in circumferentia ex his duabus curvis quatuor series de·
+duci possunt inquibus indicum denominatores sequentur ordinem numero·
+rum Arithmeticae proportionalium quorum differentia erit numerus ter·
+narius. Omnium vero harum curvarum arcus exhiberi possunt in rediis-
+& arcubus curvarum duarum ope reslae & circuli descriptarum ε, Atque·
+his construximus curvas omnes quarum indicum numeratores possunt esse
+aquales numero ternario denominatores vero numeri quicunque iu·
+
+sssgll.
+
+ 
+
